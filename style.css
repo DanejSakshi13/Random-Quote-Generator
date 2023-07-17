@@ -1,0 +1,32 @@
+body{
+    background-color: #CDC2AE;
+}
+
+#container{
+    background-color: #116A7B;
+    border: 3px solid white;
+    border-radius: 50px;
+    height: 250px;
+    width: 700px;
+    margin : 110px 340px;
+    text-align: center;
+}
+
+#btn, #copy, #sound{
+    margin: 50px auto;
+    height: 50px;
+    width: 200px;
+    font-size: 15px;
+    background-color: #C2DEDC;
+    border-radius: 50px;
+    border: 2px solid white;
+    font-family: 'Poppins', sans-serif;
+}
+
+#output{
+    margin: 25px auto;
+    font-size: 20px;
+    color: white;
+    padding: 0 100px;
+    font-family: 'Poppins', sans-serif;
+}
